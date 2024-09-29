@@ -7,6 +7,8 @@ Tailwind CSS
 JavaScript.
 
 This project highlights my full-stack development skills, where I have built a fully responsive website using a variety of modern technologies. The website features a BMI calculator, cool animations for an enhanced user experience, and a contact form for customer support. When users submit their inquiries, the messages are sent directly to my Gmail account.
+
+
 Live Demo of the Project displaying the website's responsive design (Video might be displayed in low quality. Check for Snapshots below the video). 
 
 https://github.com/user-attachments/assets/bb86b2a3-96a1-4f08-a2f9-bb73360e647a
