@@ -18,6 +18,7 @@ Here are some snapshots from the project!
 
 ![Screenshot 2024-09-29 051147](https://github.com/user-attachments/assets/1e37fa12-522c-4204-beba-b95acf88831b)
 ![Screenshot 2024-09-29 104734](https://github.com/user-attachments/assets/f9a4e594-e4cf-4014-b602-917935654ff3)
+![Screenshot 2024-09-29 111641](https://github.com/user-attachments/assets/4366ef9a-eb11-4883-b563-ce9e4776bd9a)
 ![Screenshot 2024-09-29 104810](https://github.com/user-attachments/assets/f589f7a0-d47c-4d68-9b9b-f981033b8e8f)
 
 About FitDev:
