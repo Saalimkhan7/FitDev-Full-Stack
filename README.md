@@ -11,6 +11,8 @@ This project highlights my full-stack development skills, where I have built a f
 
 Live Demo of the Project displaying the website's responsive design ( Check for Snapshots below the video ). 
 
+Note: The video was recorded using Wondershare, so it displays a watermark.
+
 https://github.com/user-attachments/assets/79953c31-89e0-436b-8e0c-3efddff716d4
 
 
