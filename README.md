@@ -13,6 +13,9 @@ Live Demo of the Project displaying the website's responsive design (Video might
 
 https://github.com/user-attachments/assets/bb86b2a3-96a1-4f08-a2f9-bb73360e647a
 
+https://github.com/user-attachments/assets/79953c31-89e0-436b-8e0c-3efddff716d4
+
+
 Here are some snapshots from the project!
 (Note: only 4 snaps from the project are displayed which contains Backend Functionality)
 
